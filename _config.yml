@@ -11,9 +11,9 @@ title                    : "Na Yu"
 title_separator          : "-"
 name                     : &name "Na Yu"
 description              : &description "A chinese student at CUFE"
-url                      : "https://NaChristineYu.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "NaChristineYu/NaChristineYu.github.io"
+url                      : https://NaChristineYu.github.io
+baseurl                  : "" 
+repository               : "NaChristineYu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Na Yu(余娜)"
-  avatar           : "bio(2)(1).png"
+  avatar           : "bio.jpg"
   bio              : "devenir immortel et puis mourir"
   location         : "Beijng, China"
   employer         :
