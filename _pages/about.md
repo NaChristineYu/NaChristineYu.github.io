@@ -13,7 +13,7 @@ Hello there! I'm currently a third-year undergraduate student at [school of CEMA
 While crafting my self-introduction, I took inspiration from an academic template, intending to create a professional website. However, I've come to realize that I don't want to approach this endeavor with utmost seriousness. Instead, I'm eager to share my personal experiences, motivations, and lifelong goals—elements that might intertwine with my secret sorrows and ongoing struggles with self-doubt. This is the authentic me.
 If you're interested in delving into my story, let's embark on this journey together.
 
-[Email](2021312450@email.cufe.edu.cn) / [LinkedIn](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343](https://www.linkedin.com/in/na-yu-2a731225a)) / [WeChat]("E:\NaChristineYu\wechat.jpg")
+[Email](2021312450@email.cufe.edu.cn) / [LinkedIn](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343](https://www.linkedin.com/in/na-yu-2a731225a)) / [WeChat](wechat.jpg)
 
 A data-driven personal website
 ======
