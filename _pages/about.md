@@ -11,6 +11,7 @@ redirect_from:
 Hello there! I'm currently a third-year undergraduate student at [school of CEMA](http://cema.cufe.edu.cn/index.htm), [CUFE](http://www.cufe.edu.cn/), majoring in Math, Economics, and Finance. I had the incredible opportunity to spend the summer of 2023 at [UCLA](https://www.ucla.edu/), immersing myself in courses on Money & Banking and the Art & Technique of Filmmaking.
 
 While crafting my self-introduction, I took inspiration from an academic template, intending to create a professional website. However, I've come to realize that I don't want to approach this endeavor with utmost seriousness. Instead, I'm eager to share my personal experiences, motivations, and lifelong goals—elements that might intertwine with my secret sorrows and ongoing struggles with self-doubt. This is the authentic me.
+
 If you're interested in delving into my story, let's embark on this journey together.
 
 [Email](2021312450@email.cufe.edu.cn) / [LinkedIn](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343](https://www.linkedin.com/in/na-yu-2a731225a)) / [WeChat](images/wechat.jpg)
