@@ -38,6 +38,7 @@ Recognizing the importance of discerning when to be silent and understanding the
 
 goal
 ======
+
 short-term
 ------
 
