@@ -11,7 +11,7 @@ title                    : "Na Yu"
 title_separator          : "-"
 name                     : &name "Na Yu"
 description              : &description "A chinese student at CUFE"
-url                      : "https://nachristineyu.github.io"
+url                      : https://nachristineyu.github.io
 baseurl                  : "" 
 repository               : "NaChristineYu/NaChristineYu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
