@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hello there! I'm currently a third-year undergraduate student at [school of CEMA](http://cema.cufe.edu.cn/index.htm), [CUFE](http://www.cufe.edu.cn/), majoring in Math, Economics, and Finance. I had the incredible opportunity to spend the summer of 2023 at [UCLA](https://www.ucla.edu/), immersing myself in courses on Money & Banking and the Art & Technique of Filmmaking.
+
+While crafting my self-introduction, I took inspiration from an academic template, intending to create a professional website. However, I've come to realize that I don't want to approach this endeavor with utmost seriousness. Instead, I'm eager to share my personal experiences, motivations, and lifelong goals—elements that might intertwine with my secret sorrows and ongoing struggles with self-doubt. This is the authentic me.
+If you're interested in delving into my story, let's embark on this journey together.
+
+[Email](2021312450@email.cufe.edu.cn) / [LinkedIn](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343](https://www.linkedin.com/in/na-yu-2a731225a)) / [WeChat]("E:\NaChristineYu\wechat.jpg")
 
 A data-driven personal website
 ======
