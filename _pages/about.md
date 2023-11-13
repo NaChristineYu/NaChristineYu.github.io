@@ -28,7 +28,7 @@ As I grew older, my love for the arts expanded to include books, music, and film
 
 When it comes to music and film, my tastes are diverse, spanning across various genres. I'll share some of my favorites next time.
 
-motivation
+Motivation
 ======
 Subsequently, I want to emphasize my genuine enthusiasm for connecting with diverse individuals. The prospect of exploring new experiences, adapting to entirely different environments, and getting to know people from all walks of life holds immense fascination for me.
 
