@@ -14,7 +14,7 @@ While crafting my self-introduction, I took inspiration from an academic templat
 
 If you're interested in delving into my story, let's embark on this journey together.
 
-[Email](2021312450@email.cufe.edu.cn) / [LinkedIn](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343](https://www.linkedin.com/in/na-yu-2a731225a)) / [WeChat](images/wechat.jpg)
+[Email](2021312450@email.cufe.edu.cn) / [LinkedIn](https://www.linkedin.com/in/na-yu-2a731225a) / [WeChat](images/wechat.jpg)
 
 Passion
 ======
