@@ -1,12 +1,12 @@
 # main links links
 main:
-  - title: "thinkings"
+  - title: "hobbies"
     url: /talks/    
     
-  - title: "career path"
+  - title: "principles"
     url: /teaching/    
     
-  - title: "study life"
+  - title: "career path"
     url: /portfolio/
     
   - title: "CV"
